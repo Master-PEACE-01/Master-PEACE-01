@@ -40,7 +40,7 @@
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MASTER-PEACE-01&show_icons=true&theme=radical" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MASTER-PEACE-01&show_icons=truet&heme=radical&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MASTER-PEACE-01&theme=radical&hide_border=true" width = 400>
 </p>
 
 
