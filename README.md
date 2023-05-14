@@ -11,7 +11,8 @@
  <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 ### Who am I ?
-- My name is Michaël, and I'm currently a student in Web Development.
+- 👨‍💻 My name is Michaël, and I'm currently a student in Web Development.
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Software Engineering & Database 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 National Informatics School , 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3
 
 
 ## ⚡ My Skills
