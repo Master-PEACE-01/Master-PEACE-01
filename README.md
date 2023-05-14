@@ -10,26 +10,26 @@
  
  <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
-### Who am I ?
+## Qbout me:
 - 👨‍💻 My name is Michaël, and I'm currently a student in Web Development.
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Software Engineering & Database 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 National Informatics School , 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3
 
 
-## ⚡ My Skills
+## ⚡ My Skills:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,python,js,nodejs,mysql,vue,laravel" />
   </a>
 </p>
 
-## ⚡ Others...
+## ⚡ Others:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,php,visualstudio,c" />
   </a>
 </p>
 
-<h3>🔥 Streak Stats</h3>
+ ## 🔥 Streak Stats:
 
   <!-- GitHub Readme Streak Stats - https://github.com/Master-PEACE-01/github-readme-streak-stats -->
   <p>
