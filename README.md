@@ -6,7 +6,7 @@
  
  </div>
  
- ## Hello World ! 👋
+## Hello World ! 👋
  
  <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
@@ -14,14 +14,14 @@
 - My name is Michaël, and I'm currently a student in Web Development.
 
 
-### ⚡ My Skills
+## ⚡ My Skills
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,python,js,nodejs,mysql,vue,laravel" />
   </a>
 </p>
 
-### ⚡ Others...
+## ⚡ Others...
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,php,visualstudio,c" />
