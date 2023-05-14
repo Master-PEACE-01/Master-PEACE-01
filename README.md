@@ -25,7 +25,7 @@
 ## ⚡ Others :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,php,visualstudio,c" />
+    <img src="https://skillicons.dev/icons?i=github,php,gitlab,visualstudio,nestjs,nextjs,postgres,unreal" />
   </a>
 </p>
 
