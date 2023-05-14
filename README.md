@@ -7,6 +7,8 @@
  </div>
  
  ## Hello World ! 👋
+ 
+ <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 ### Who am I ?
 - My name is Michaël, and I'm currently a student in Web Development.
