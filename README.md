@@ -12,7 +12,7 @@
 
 ## 🐱‍👤 About me :
 - 👨‍💻 My name is Michaël, and I'm currently a student in Web Development.
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Software Engineering & Database 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 National Informatics School , 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3
+- 🎓 Studying Software Engineering & DataBase at the University of National Informatics School, class of 2023
 
 
 ## ⚡ My Skills :
