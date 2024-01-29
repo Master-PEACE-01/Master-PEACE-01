@@ -18,7 +18,7 @@
 ## ⚡ My Skills :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,python,js,nodejs,mysql,vue,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,js,nodejs,mysql,vue,laravel,java" />
   </a>
 </p>
 
