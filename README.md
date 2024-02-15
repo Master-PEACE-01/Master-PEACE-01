@@ -31,17 +31,7 @@
 
  ## 🔥 Streak Stats :
 
-  <!-- GitHub Readme Streak Stats - https://github.com/Master-PEACE-01/github-readme-streak-stats -->
-  <!--<p>
-    <a href="https://github.com/Master-PEACE-01/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Master-PEACE-01's streak" src="https://streak-stats.demolab.com/?user=Master-PEACE-01&theme=radical&hide_border=true"/>
-    </a> <a href="https://github.com/Master-PEACE-01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-RAMANAMPAMONJY&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> 
- </p>-->
-  
-  <p align = "center">
-  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MASTER-PEACE-01&theme=radical&hide_border=true" width = 400>
-</p>
+
 
 | ![Michael RAMANAMPAMONJY github stats](https://github-readme-stats.vercel.app/api?username=Michael-RAMANAMPAMONJY\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Michael RAMANAMPAMONJY GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michael-RAMANAMPAMONJY&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
