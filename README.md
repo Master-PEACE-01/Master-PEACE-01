@@ -8,12 +8,20 @@
 ## Hello World ! 👋
  
  <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+# 👋 Bonjour, je suis [Votre Nom]!
 
-## 🐱‍👤 About me :
-- 👨‍💻 My name is Michaël, and I'm currently a student in Web Development.
-- 🎓 Studying Software Engineering & DataBase at the University of National Informatics School, class of 2024
+### 🧑‍💻 Développeur Java Spring & JavaScript
 
+---
 
+## 📜 À propos de moi
+
+Passionné par le développement de logiciels, je me spécialise dans la création d'applications robustes et évolutives en utilisant Java Spring pour le backend et JavaScript (avec des frameworks comme React ou Angular) pour le frontend. Avec [nombre] années d'expérience dans l'industrie, j'ai travaillé sur divers projets allant des applications web aux systèmes d'entreprise complexes.
+
+- 🔭 Actuellement, je travaille sur un projet de relation de client[CRM].
+- 💬 N'hésitez pas à me poser des questions sur Java, Spring, JavaScript, React, Angular, ou tout autre sujet lié au développement web.
+- 📫 Vous pouvez me contacter à michaelramanampamonjyy@gmail.com.
+---
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
