@@ -3,8 +3,6 @@
 ![Your Image Name](https://raw.githubusercontent.com/MASTERPIECE2003/SVG/main/MASTERPIECE.png?token=GHSAT0AAAAAACSNZ5DYB46XWD7TUCHFFOEWZSKGATA)
 </div>
 
-# 👋 Bonjour, je suis Michaël!
-
 ### 🧑‍💻 Développeur Java & JavaScript
 
 ---
