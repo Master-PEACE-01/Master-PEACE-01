@@ -3,14 +3,9 @@
 ![Your Image Name](https://raw.githubusercontent.com/MASTERPIECE2003/SVG/main/MASTERPIECE.png?token=GHSAT0AAAAAACSNZ5DYB46XWD7TUCHFFOEWZSKGATA)
 </div>
 
+# 👋 Bonjour, je suis Michaël!
 
- 
-## Hello World ! 👋
- 
- <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
-# 👋 Bonjour, je suis [Votre Nom]!
-
-### 🧑‍💻 Développeur Java Spring & JavaScript
+### 🧑‍💻 Développeur Java & JavaScript
 
 ---
 
