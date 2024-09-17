@@ -12,7 +12,7 @@
 Passionné par le développement de logiciels, je me spécialise dans la création d'applications robustes et évolutives en utilisant Java Spring pour le backend et JavaScript (avec des frameworks comme React ou Angular) pour le frontend.
 
 - 💬 N'hésitez pas à me poser des questions sur Java, JavaScript, React, Angular, ou tout autre sujet lié au développement web.
-- 📫 Vous pouvez me contacter à michaelramanampamonjyy@gmail.com ou bien texte moi sur WhatsApp +261341832142.
+- 📫 Vous pouvez me contacter à michaelramanampamonjyy@gmail.com ou bien texte moi sur WhatsApp  👉🏽[+261341832142]().
 ---
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
