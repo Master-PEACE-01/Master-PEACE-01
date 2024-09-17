@@ -31,7 +31,7 @@ Passionné par le développement de logiciels, je me spécialise dans la créati
 
 
 
-| ![Michael RAMANAMPAMONJY github stats](https://github-readme-stats.vercel.app/api?username=MASTERPIECE2003\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MASTERPIECE2003&theme=java-dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) |
+| ![Michael RAMANAMPAMONJY github stats](https://github-readme-stats.vercel.app/api?username=MASTERPIECE2003\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterpiece2003\&layout=donut)](https://github.com/masterpiece2003/github-readme-stats) |
 | -- | -- |
 
 <hr>
