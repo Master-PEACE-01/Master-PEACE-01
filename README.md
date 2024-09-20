@@ -3,11 +3,11 @@
 ![Your Image Name](https://raw.githubusercontent.com/MASTERPIECE2003/SVG/main/MASTERPIECE.png?token=GHSAT0AAAAAACSNZ5DYB46XWD7TUCHFFOEWZSKGATA)
 </div>
 
-### 🧑‍💻 Développeur Java & JavaScript
+### 🧑‍💻 Java & JavaScript Developer
 
 ---
 
-## 📜 À propos de moi
+## 📜 About me
 
 Passionné par le développement de logiciels, je me spécialise dans la création d'applications robustes et évolutives en utilisant Java Spring pour le backend et JavaScript (avec des frameworks comme React ou Angular) pour le frontend.
 
