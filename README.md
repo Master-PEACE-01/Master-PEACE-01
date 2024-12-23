@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a new exciting project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
 💬 Ask me about **Java, React, Spring Boot... or anything [here](https://github.com/NOZENNXgen/NOZENNXgen/issues)**
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,react,spring,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,docker,mysql,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=java,react,spring,vscode,github,tailwind,git,swagger" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,postgresql,mongodb,docker,mysql,aws,kubernetes" /><br>
 </div>
 
 <br/>
