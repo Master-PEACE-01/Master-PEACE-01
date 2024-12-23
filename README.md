@@ -52,14 +52,20 @@
 
 <hr/>
 <div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NOZENNXgen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NOZENNXgen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NOZENNXgen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h2>📊 GitHub Stats:</h2>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NOZENNXgen&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOZENNXgen&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOZENNXgen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br/>
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NOZENNXgen&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NOZENNXgen&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
