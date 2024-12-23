@@ -57,8 +57,7 @@
 <hr/>
 
 <div align="center">
-    ### 🔝 Top Contributed Repo
-
+    <h2>### 🔝 Top Contributed Repo</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=NOZENNXgen&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
