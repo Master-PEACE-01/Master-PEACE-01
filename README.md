@@ -42,14 +42,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NOZENNXgen/NOZENNXgen/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
@@ -62,8 +54,11 @@
   <br/>
 </div>
 
-### 🔝 Top Contributed Repo
+<hr/>
+
 <div align="center">
+    ### 🔝 Top Contributed Repo
+
   <img src="https://github-contributor-stats.vercel.app/api?username=NOZENNXgen&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
