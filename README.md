@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
-💬 Ask me about **Java, React, Spring Boot...**
+💬 Ask me about **Java, React, Spring Boot**
 
 ⚡ Fun fact **Did you know the Night's Watch cloaks in Game of Thrones are made from Ikea rugs?**
 
