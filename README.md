@@ -51,7 +51,7 @@
 </div>
 
 <hr/>
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NOZENNXgen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NOZENNXgen&theme=dark&hide_border=false)<br/>
@@ -60,5 +60,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NOZENNXgen&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
